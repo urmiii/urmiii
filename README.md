@@ -13,4 +13,5 @@
 
 
 ## Languages and Tools I Use:
-![] (https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
+![](https://img.icons8.com/dusk/28/000000/python.png)
+![](https://img.icons8.com/nolan/28/html-filetype.png)
