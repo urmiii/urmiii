@@ -13,7 +13,7 @@ For companies who are struggling to make strategic business decisions, I provide
 - 🔭 I’m currently working on a website; 
 - 🌱 I’m currently brushing up my Flask and MySQL skills;
 - 💬 Ask me about anything, always happy to help;
-- 📫 How to reach me: https://www.linkedin.com/in/urmidshah/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/urmidshah/) , [Kaggle](https://www.kaggle.com/urmishah)
 
 
 #### Languages and Tools I Use:
