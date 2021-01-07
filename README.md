@@ -13,7 +13,7 @@ For companies who are struggling to make strategic business decisions, I provide
 - 🔭 I’m currently working on a website; 
 - 🌱 I’m currently brushing up my Flask and MySQL skills;
 - 💬 Ask me about anything, always happy to help;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/urmidshah/) , [Kaggle](https://www.kaggle.com/urmishah)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/urmidshah/) 
 
 
 #### Languages and Tools I Use:
@@ -29,3 +29,5 @@ For companies who are struggling to make strategic business decisions, I provide
 
 #### My Github Stats:
 [![Urmi's github stats](https://github-readme-stats.vercel.app/api?username=urmiii&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+*Find more ML related projects on my [Kaggle]((https://www.kaggle.com/urmishah)
