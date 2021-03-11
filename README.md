@@ -10,8 +10,8 @@ For companies who are struggling to make strategic business decisions, I provide
 
 #### About Me:
 
-- 🔭 I’m currently working on a website; 
-- 🌱 I’m currently brushing up my Flask and MySQL skills;
+- 🔭 I’m currently working as a full stack developer; 
+- 🌱 I’m currently brushing up my Laravel and Deployment skills;
 - 💬 Ask me about anything, always happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/urmidshah/) 
 
@@ -25,6 +25,8 @@ For companies who are struggling to make strategic business decisions, I provide
 ![](https://img.icons8.com/dusk/28/000000/anaconda.png)
 ![](https://img.icons8.com/ios/28/000000/mysql-logo.png)
 ![](https://img.icons8.com/color/28/000000/javascript.png)
+![](https://img.icons8.com/fluent/48/000000/laravel.png)
+
 
 
 #### My Github Stats:
