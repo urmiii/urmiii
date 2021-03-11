@@ -25,7 +25,7 @@ For companies who are struggling to make strategic business decisions, I provide
 ![](https://img.icons8.com/dusk/28/000000/anaconda.png)
 ![](https://img.icons8.com/ios/28/000000/mysql-logo.png)
 ![](https://img.icons8.com/color/28/000000/javascript.png)
-![](https://img.icons8.com/fluent/48/000000/laravel.png)
+![](https://img.icons8.com/fluent/28/000000/laravel.png)
 
 
 
