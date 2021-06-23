@@ -11,7 +11,7 @@ For companies who are struggling to make strategic business decisions, I provide
 #### About Me:
 
 - 🔭 I’m currently working as a full stack developer; 
-- 🌱 I’m currently learning Vue js;
+- 🌱 I’m currently learning Django Development;
 - 💬 Ask me about anything, always happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/urmidshah/) 
 
