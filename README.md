@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Urmi and I enjoy working with spatial data analytics & currently working as a Data Engineer in Geolytix.
+I'm Urmi and I enjoy working with spatial data and analytics.
 
 <!--
 **urmiii/urmiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ I'm Urmi and I enjoy working with spatial data analytics & currently working as 
 
 #### About Me:
 
-- 🔭 I’m currently working as a part time IT Service Desk Analyst; 
+- 🔭 I’m currently working as a Data Engineer in Geolytix; 
 - 🌱 I’m currently learning Geo-spatial Data Analysis;
 - 💬 Ask me about anything, always happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/urmidshah/) 
