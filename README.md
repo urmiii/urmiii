@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Urmi and I help businesses make strategic decisions using data analytics/web development. 
-
-For companies who are struggling to make strategic business decisions, I provide a unique exploratory data visualisation and analysis report which helps them get better insights and more customers while for companies who need help to increase their visibility, I create distinct software/websites that serve more traffic and customers to the company's website.
+I'm Urmi and I enjoy working with spatial data analytics & currently working as a Data Engineer in Geolytix.
 
 <!--
 **urmiii/urmiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
